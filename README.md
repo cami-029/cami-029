@@ -1,17 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**cami-029/cami-029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camila Vitória
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhação dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...16
-17
+- ### Você podwe entrar em contato comigo 📫
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+- camila.ribeiro.batista@escola.pr.gov.br
+  
+- Cami-029
+![](https://media1.tenor.com/m/kh5urt0AVoEAAAAC/garfield.gif)
